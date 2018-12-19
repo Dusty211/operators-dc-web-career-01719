@@ -15,7 +15,7 @@ def unsafe?(speed)
     false
 end
 
-binding.pry
+#binding.pry
 
 
 def not_safe?(speed)
