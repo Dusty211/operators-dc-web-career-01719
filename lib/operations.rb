@@ -15,12 +15,9 @@ def unsafe?(speed)
     false
 end
 
-#binding.pry
-
 
 def not_safe?(speed)
 	
 end
 	
-
-
+binding.pry
